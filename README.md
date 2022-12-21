@@ -1,4 +1,12 @@
 ### Hi there 👋
+---
+**bold**<br>
+*italic*<br>
+~~strike~~<br>
+
+
+
+
 
 <!--
 **hyungsp/hyungsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
